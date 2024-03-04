@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A passionate game developer from Spain</h3>
+<h3 align="center">A game developer from Spain</h3>
 
 - 🔭 I’m currently working on **Front-end development**
 
